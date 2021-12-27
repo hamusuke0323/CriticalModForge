@@ -1,0 +1,6 @@
+critical.command.setCritRate.single=Set %s's critical rate to %s%%
+critical.command.setCritDamage.single=Set %s's critical damage to %s%%
+critical.command.getCritRate=%s's critical rate is %s%%
+critical.command.getCritDamage=%s's critical damage is %s%%
+enchantment.critical.crit_rate=Crit Rate
+enchantment.critical.crit_damage=Crit Damage

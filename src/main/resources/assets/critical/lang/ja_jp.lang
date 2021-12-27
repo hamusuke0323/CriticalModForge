@@ -1,0 +1,6 @@
+critical.command.setCritRate.single=%s の会心率を %s%% に設定しました
+critical.command.setCritDamage.single=%s の会心ダメージを %s%% に設定しました
+critical.command.getCritRate=%s の会心率は %s%% です
+critical.command.getCritDamage=%s の会心ダメージは %s%% です
+enchantment.critical.crit_rate=会心率
+enchantment.critical.crit_damage=会心ダメージ
